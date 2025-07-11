@@ -7,11 +7,12 @@ I enjoy working with modern web technologies, optimizing performance, and contri
 
 ## 🛠 Tech Stack
 
-- **Frontend:** TypeScript, JavaScript, React
-- **Backend:** Node.js, NestJS, Flask, FastAPI
+- **Frontend:** TypeScript, JavaScript, React, Tailwind, React Query
+- **Backend:** Node.js, NestJS, Flask, FastAPI, Laravel
+- **Mobile:** Kotlin, Jetpack Compose
 - **Databases:** PostgreSQL, MongoDB
-- **DevOps & Tools:** Docker, Linux
-- **Other Languages:** Python
+- **DevOps & Tools:** Docker, Linux, Terraform, Kubernetes
+- **Other Languages:** Python, PHP
 
 ---
 
