@@ -1,17 +1,23 @@
-# Hi there! 👋 I'm a Full Stack Developer
+# Hi there! 👋 I'm Javier, a Full Stack Developer
 
 ## 🚀 About Me
-I'm a **passionate Full Stack Developer** with a love for building scalable, high-performance applications. With a strong foundation in both front-end and back-end development, I thrive on creating seamless user experiences and efficient system architectures. My journey into coding began with curiosity, and over the years, it has transformed into a deep enthusiasm for problem-solving, innovation, and continuous learning.
 
-I enjoy working with modern web technologies, optimizing performance, and contributing to open-source projects. Whether it's designing a beautiful UI, structuring a robust API, or deploying scalable applications, I always strive for excellence in my craft. Outside of coding, I love discussing tech trends, contributing to the developer community, and of course, watching great movies.
+I'm a **passionate Full Stack Developer** with a love for building scalable, high-performance applications. My journey into coding began with curiosity, and it has transformed into a deep enthusiasm for problem-solving, innovation, and continuous learning.
 
-## 🛠 Tech Stack
+When I'm not coding, I'm probably discussing tech trends, contributing to the developer community, or watching great movies (you can see some of my favorite quotes below!).
 
-- **Frontend:** TypeScript, JavaScript, React
-- **Backend:** Node.js, NestJS, Flask, FastAPI
-- **Databases:** PostgreSQL, MongoDB
-- **DevOps & Tools:** Docker, Linux
-- **Other Languages:** Python
+## 🌱 What I'm Currently Working On
+
+I'm currently building **Workahomie**! It's an app designed to connect professionals and people with shared occupations who want to work together for a day. Think of it as a Couchsurfing for workspaces, where users can host others in their homes to share a productive day.
+
+## 🛠️ My Tech Stack
+
+![My Skills](https://skillicons.dev/icons?i=ts,js,react,nodejs,nestjs,flask,fastapi,postgres,mongodb,docker,linux,python)
+
+## 📫 Let's Connect!
+
+- **LinkedIn:** [linkedin.com/ocampojavieralfonso](https://www.linkedin.com/in/ocampojavieralfonso/)
+- **Portfolio:** [Your Portfolio URL]
 
 ---
 
@@ -19,45 +25,57 @@ I enjoy working with modern web technologies, optimizing performance, and contri
 
 <table>
   <tr>
-    <td><img src="images/smaug.gif" width="300"/></td>
+    <td align="center">
+      <img src="images/smaug.gif" width="300"/>
+      <br />
+      <em>The Hobbit: The Desolation of Smaug</em>
+    </td>
     <td>
       <blockquote>
-        There is something about you<br>
-        Something you carry<br>
-        Something made of Gold<br>
-        But Far... More...  Precious!
+        "There is something about you. Something you carry. Something made of Gold. But Far... More... Precious!"
       </blockquote>
       <blockquote>
-        The coward Oakenshield has weighed the value of your life and found it worth nothing.
+        "The coward Oakenshield has weighed the value of your life and found it worth nothing."
       </blockquote>
       <blockquote>
-        I am fire, I am... DEATH!
+        "I am fire, I am... DEATH!"
       </blockquote>
     </td>
   </tr>
   <tr>
     <td>
       <blockquote>
-        Time is motion and motion and though are unity<br>
-        Two aspects of a single power that is beyond comprehension to all but myself.<br>
-        That is why certain psychics can see into the future.<br>
-        The mind can transcend the time!.
+        "Time is motion and motion and though are unity. Two aspects of a single power that is beyond comprehension to all but myself. That is why certain psychics can see into the future. The mind can transcend the time!."
       </blockquote>
     </td>
-    <td><img src="images/Apocalypse.jpeg" width="300"/></td>
+    <td align="center">
+      <img src="images/Apocalypse.jpeg" width="300"/>
+      <br />
+      <em>X-Men: Apocalypse</em>
+    </td>
   </tr>
   <tr>
-    <td><img src="images/smith.jpeg" width="300"/></td>
+    <td align="center">
+      <img src="images/smith.jpeg" width="300"/>
+      <br />
+      <em>The Matrix Reloaded</em>
+    </td>
     <td>
       <blockquote>
-        But, as you well know, appearances can be deceiving,<br>
-        which brings me back to the reason why we're here.<br>
-        We're not here because we're free.<br>
-        We're here because we're not free.<br>
-        There is no escaping reason; no denying purpose.<br>
-        Because as we both know, without purpose, we would not exist.
+        "But, as you well know, appearances can be deceiving, which brings me back to the reason why we're here. We're not here because we're free. We're here because we're not free. There is no escaping reason; no denying purpose. Because as we both know, without purpose, we would not exist."
       </blockquote>
+    </td>
+  </tr>
+  <tr>
+    <td>
+        <blockquote>
+            "Do I really look like a guy with a plan? You know what I am? I'm a dog chasing cars. I wouldn't know what to do with one if I caught it! You know, I just... *do* things."
+        </blockquote>
+    </td>
+    <td align="center">
+        <img src="images/joker.gif" width="300"/>
+        <br />
+        <em>The Dark Knight</em>
     </td>
   </tr>
 </table>
-
