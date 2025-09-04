@@ -17,7 +17,7 @@ I'm currently building **Workahomie**! It's an app designed to connect professio
 ## 📫 Let's Connect!
 
 - **LinkedIn:** [linkedin.com/ocampojavieralfonso](https://www.linkedin.com/in/ocampojavieralfonso/)
-- **Portfolio:** [[Your Portfolio URL](https://javieroc.github.io/portfolio-astro/)]
+- **Portfolio:** [https://javieroc.github.io/portfolio-astro/](https://javieroc.github.io/portfolio-astro/)]
 
 ---
 
