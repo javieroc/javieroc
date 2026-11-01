@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 120" width="1200" height="120" role="img" aria-label="The End">
+  <defs>
+    <pattern id="perf" width="36" height="22" patternUnits="userSpaceOnUse">
+      <rect x="10" y="6" width="16" height="10" rx="2" fill="#07070a"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="120" fill="#07070a"/>
+  <rect y="98" width="1200" height="22" fill="#15151b"/>
+  <rect y="98" width="1200" height="22" fill="url(#perf)"/>
+  <g transform="translate(330 64)">
+    <rect x="0"   width="126" height="2" fill="#ff6a1a"/>
+    <rect x="138" width="126" height="2" fill="#3d7bff"/>
+    <rect x="276" width="126" height="2" fill="#2bd96b"/>
+    <rect x="414" width="126" height="2" fill="#a24bff"/>
+  </g>
+  <text x="600" y="48" text-anchor="middle" fill="#f2efe6" style="font: italic 400 30px Georgia, 'Times New Roman', serif; letter-spacing: 10px">The End</text>
+</svg>

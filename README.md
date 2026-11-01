@@ -1,19 +1,19 @@
 <!-- ═══════════════════════════  OPENING CREDITS  ═══════════════════════════ -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=260&color=0:0d0d0d,50:3b0a0a,100:8b0000&text=JAVIER%20OCAMPO&fontColor=e8c547&fontSize=64&fontAlignY=42&desc=Full%20Stack%20Developer%20%E2%80%A2%20Collector%20of%20Great%20Villains&descAlignY=64&descSize=18&animation=fadeIn" alt="Javier Ocampo"/>
+  <img src="images/banner.svg" width="100%" alt="Javier Ocampo — Full Stack Developer"/>
 </p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=600&size=22&duration=3500&pause=1200&color=E8C547&center=true&vCenter=true&width=720&lines=Every+great+story+needs+a+great+villain.;Every+great+system+needs+a+great+architect.;I+am+fire.+I+am...+TypeScript.;Without+purpose%2C+we+would+not+exist." alt="Typing intro"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&weight=400&size=22&duration=3500&pause=1200&color=F2EFE6&center=true&vCenter=true&width=720&lines=Every+great+story+needs+a+great+villain.;Every+great+system+needs+a+great+architect.;I+am+fire.+I+am...+TypeScript.;Without+purpose%2C+we+would+not+exist." alt="Typing intro"/>
   </a>
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ocampojavieralfonso/"><img src="https://img.shields.io/badge/LinkedIn-0d0d0d?style=for-the-badge&logo=linkedin&logoColor=e8c547" alt="LinkedIn"/></a>
-  <a href="https://javieroc.github.io/portfolio-astro/"><img src="https://img.shields.io/badge/Portfolio-0d0d0d?style=for-the-badge&logo=astro&logoColor=e8c547" alt="Portfolio"/></a>
-  <img src="https://komarev.com/ghpvc/?username=javieroc&style=for-the-badge&color=8b0000&label=AUDIENCE" alt="Profile views"/>
+  <a href="https://www.linkedin.com/in/ocampojavieralfonso/"><img src="https://img.shields.io/badge/LinkedIn-07070a?style=for-the-badge&logo=linkedin&logoColor=f2efe6" alt="LinkedIn"/></a>
+  <a href="https://javieroc.github.io/portfolio-astro/"><img src="https://img.shields.io/badge/Portfolio-07070a?style=for-the-badge&logo=astro&logoColor=f2efe6" alt="Portfolio"/></a>
+  <img src="https://komarev.com/ghpvc/?username=javieroc&style=for-the-badge&color=3d7bff&label=AUDIENCE" alt="Profile views"/>
 </p>
 
 ---
@@ -143,7 +143,7 @@ Off-screen, I study the greats: the villains. The best ones have **vision, disci
 ## 📊 Box Office
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=javieroc&hide_border=true&background=0D0D0D&ring=8B0000&fire=E8C547&currStreakNum=E8C547&sideNums=C9C9C9&currStreakLabel=E8C547&sideLabels=C9C9C9&dates=8A8A8A&stroke=3B0A0A" alt="GitHub streak"/>
+  <img src="https://streak-stats.demolab.com?user=javieroc&hide_border=true&background=07070A&ring=3D7BFF&fire=FF6A1A&currStreakNum=F2EFE6&sideNums=C9C9C9&currStreakLabel=2BD96B&sideLabels=C9C9C9&dates=8A8A8A&stroke=1C1D26" alt="GitHub streak"/>
   <br/>
   <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=javieroc&theme=github_dark" alt="GitHub stats"/>
   <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=javieroc&theme=github_dark" alt="Languages"/>
@@ -164,5 +164,5 @@ Off-screen, I study the greats: the villains. The best ones have **vision, disci
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:8b0000,100:0d0d0d" alt=""/>
+  <img src="images/footer.svg" width="100%" alt="The End"/>
 </p>
